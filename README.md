@@ -37,8 +37,6 @@ venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 pip install -e .
 
-# Dataset: place Telco-Customer-Churn.csv in data/raw/
-# Download: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 # Run demo (no model training needed)
 make experiment-demo
@@ -136,7 +134,3 @@ pytest tests/experimentation -v
 MIT License. See [LICENSE](LICENSE).
 
 ---
-
-## Dataset
-
-Uses [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle. Place `Telco-Customer-Churn.csv` in `data/raw/`.
