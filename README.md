@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-Production-grade telco churn prediction pipeline with BCG-style experimentation, A/B testing, and retention decision support.
+Production-grade telco churn prediction pipeline with experimentation, A/B testing, and retention decision support.
 
 ---
 
